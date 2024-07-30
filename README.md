@@ -12,7 +12,8 @@ I'm Arushi Singh, a third-year Computer Science student passionate about Artific
 - AI & Machine Learning: Exploring various algorithms and learning to build projects using frameworks like TensorFlow and PyTorch.
 - Data Structures & Algorithms: Enhancing problem-solving skills by practicing on platforms like - LeetCode and HackerRank
 - Building Web Apps: Using a variety of frameworks such as React and NextJS with TailwindCSS and Firebase Hosting to build apps for daily use.
-
+  
+More about me -
 * 🌍  I'm based in Dublin, Ireland
 * 🖥️  See my portfolio at [here!](http://https://arushisingh2803.github.io/landing-page/)
 * ✉️  You can contact me at [arushi280304@gmail.com](mailto:arushi280304@gmail.com)

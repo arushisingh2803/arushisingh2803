@@ -15,7 +15,7 @@ I'm Arushi Singh, a third-year Computer Science student passionate about Artific
   
 More about me -
 * 🌍  I'm based in Dublin, Ireland
-* 🖥️  See my portfolio at [here!](http://https://arushisingh2803.github.io/landing-page/)
+* 🖥️  See my portfolio at [here!](https://arushisingh2803.github.io/landing-page/)
 * ✉️  You can contact me at [arushi280304@gmail.com](mailto:arushi280304@gmail.com)
 * 🤝  I'm open to collaborating on any new and upcoming open source projects!
 

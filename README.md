@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Upcoming Software Engineer
 --------------------------
 
-I'm Arushi Singh, a third-year Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Development. I love solving complex problems and building innovative solutions. Welcome to my GitHub profile! 🔭 Current Focus - AI & Machine Learning: Exploring various algorithms and building projects using frameworks like TensorFlow and PyTorch. - Data Structures & Algorithms: Enhancing problem-solving skills by practicing on platforms like - LeetCode and HackerRank - Building Web Apps: Using a variety of frameworks such as React and NextJS with TailwindCSS and Firebase Hosting to build apps for daily use.
+I'm Arushi Singh, a third-year Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Development. I love solving complex problems and building innovative solutions. Welcome to my GitHub profile! 
+
+
+🔭 Current Focus 
+
+- AI & Machine Learning: Exploring various algorithms and learning to build projects using frameworks like TensorFlow and PyTorch.
+- Data Structures & Algorithms: Enhancing problem-solving skills by practicing on platforms like - LeetCode and HackerRank
+- Building Web Apps: Using a variety of frameworks such as React and NextJS with TailwindCSS and Firebase Hosting to build apps for daily use.
 
 * 🌍  I'm based in Dublin, Ireland
 * 🖥️  See my portfolio at [here!](http://https://arushisingh2803.github.io/landing-page/)

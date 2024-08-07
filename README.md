@@ -9,9 +9,9 @@ I'm Arushi Singh, a third-year Computer Science student passionate about Artific
 
 🔭 Current Focus 
 
-- AI & Machine Learning: Exploring various algorithms and learning to build projects using frameworks like TensorFlow and PyTorch.
+- AI & Machine Learning: Pursuing Specialisation in Machine Learning by Andrew Yang on Coursera
 - Data Structures & Algorithms: Enhancing problem-solving skills by practicing on platforms like - LeetCode and HackerRank
-- Building Web Apps: Using a variety of frameworks such as React and NextJS with TailwindCSS and Firebase Hosting to build apps for daily use.
+- Building Web Apps: Using a variety of frameworks such as React and NextJS with TailwindCSS and Firebase Hosting to build apps for daily use
   
 More about me -
 * 🌍  I'm based in Dublin, Ireland

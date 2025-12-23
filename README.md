@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Upcoming Software Engineer
 --------------------------
 
-I'm Arushi Singh, a third-year Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Development. I love solving complex problems and building innovative solutions. Welcome to my GitHub profile! 
+I'm Arushi Singh, a fourth-year Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Development. I love solving complex problems and building innovative solutions. Welcome to my GitHub profile! 
 
 
 🔭 Current Focus 
-
-- AI & Machine Learning: Pursuing Specialisation in Machine Learning by Andrew Yang on Coursera
+- Building Final Year Project: Harmonify creates unique user insights based on Spotify listening history, connects users and recommends concerts!
 - Data Structures & Algorithms: Enhancing problem-solving skills by practicing on platforms like - LeetCode and HackerRank
 - Building Web Apps: Using a variety of frameworks such as React and NextJS with TailwindCSS and Firebase Hosting to build apps for daily use
   
